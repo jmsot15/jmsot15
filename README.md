@@ -84,25 +84,11 @@ A mobile application connecting pet owners with nearby dog walkers, facilitating
 
 ## 📊 GitHub Stats
 
-[![Jerikka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jerikka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmsot15&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsot15&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
-
-## 💼 Professional Experience
-
-**Full-Stack Developer Co-op** | Sheridan College *(Jan 2024 – Dec 2024)*
-- Optimized platform server using ASP.NET Core and MongoDB
-- Migrated Xamarin features to .NET MAUI, improving app startup time by 25%
-- Implemented infinite scroll solution with MongoDB pagination
-- Developed scalable RESTful APIs using ASP.NET for CRUD operations
-
-**Machine Learning Data Analyst Co-op** | Rogers Communications and Sheridan College (Centre of Applied AI) *(May 2023 – Dec 2023)*
-- Deployed React web app to AWS EC2 with auto-scaling
-- Engineered Flutter mobile app integrating Google Maps API
-- Implemented live traffic-driven route optimization
-- Developed interactive Plotly dashboards for EV simulations
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmsot15&theme=radical)](https://git.io/streak-stats)
 
 ## 📫 Let's Connect
 
