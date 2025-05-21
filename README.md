@@ -40,7 +40,8 @@ Looking for web development, backend, or full-stack roles where I can leverage m
 
 ## 🚀 Featured Projects
 
-### Mind Keep - [View Repository](https://gitfront.io/r/mrikka/3vNRvdyU7Tio/MindKeep/) | [View Demo](https://www.youtube.com/watch?v=eVVs7fHWK8c)<br><br>
+### Mind Keep
+[View Repository](https://gitfront.io/r/mrikka/3vNRvdyU7Tio/MindKeep/) | [View Demo](https://www.youtube.com/watch?v=eVVs7fHWK8c)<br><br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -65,7 +66,8 @@ A cross-platform mobile application that optimizes routes for electric vehicle d
 - Deployed using AWS Amplify with CI/CD pipelines for seamless cross-platform updates
 - Implemented HERE Geocoding API to resolve address mismatches in rural areas
 
-### Woof n Walk - [View Repository](https://gitfront.io/r/mrikka/6mHdwpDzEEHH/WoofnWalk/) | [View Demo](https://www.youtube.com/watch?v=BAEvX1RzZbI)<br><br>
+### Woof n Walk
+[View Repository](https://gitfront.io/r/mrikka/6mHdwpDzEEHH/WoofnWalk/) | [View Demo](https://www.youtube.com/watch?v=BAEvX1RzZbI)<br><br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white)
