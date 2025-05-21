@@ -93,7 +93,3 @@ I'm currently looking for opportunities in web development, backend development,
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jerikka-sotelo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jerikkasotelo.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soteloje@proton.me)
-
----
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=jmsot15)
