@@ -96,4 +96,4 @@ I'm currently looking for opportunities in web development, backend development,
 
 ---
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=jmsot15.jmsot15)
