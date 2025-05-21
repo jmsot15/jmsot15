@@ -53,7 +53,7 @@ An augmented reality application designed to assist individuals with memory impa
 - Collaborated with a clinical psychologist to optimize accessibility and usability
 - Implemented Firebase for real-time data synchronization between users and caregivers
 
-[View Repository](https://github.com/janedoe/memory-assistant) | [View Demo](https://youtu.be/demo-link)
+[View Repository](https://gitfront.io/r/mrikka/3vNRvdyU7Tio/MindKeep/) | [View Demo](https://www.youtube.com/watch?v=eVVs7fHWK8c)
 
 ### Smart Route
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -66,8 +66,6 @@ A cross-platform mobile application that optimizes routes for electric vehicle d
 - Integrated OpenChargeMap API to locate nearby charging stations when battery levels drop
 - Deployed using AWS Amplify with CI/CD pipelines for seamless cross-platform updates
 - Implemented HERE Geocoding API to resolve address mismatches in rural areas
-
-[View Repository](https://github.com/janedoe/ev-route-optimizer)
 
 ### Woof n Walk
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -82,7 +80,7 @@ A mobile application connecting pet owners with nearby dog walkers, facilitating
 - Used Firebase Firestore for real-time data management and synchronization
 - Visualized walker locations using Google Static Maps API
 
-[View Repository](https://github.com/janedoe/pet-connection)
+[View Repository](https://gitfront.io/r/mrikka/6mHdwpDzEEHH/WoofnWalk/) | [View Demo](https://www.youtube.com/watch?v=BAEvX1RzZbI)
 
 ## 📊 GitHub Stats
 
