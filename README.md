@@ -41,6 +41,7 @@ Looking for web development, backend, or full-stack roles where I can leverage m
 ## 🚀 Featured Projects
 
 ### Mind Keep
+[View Repository](https://gitfront.io/r/mrikka/3vNRvdyU7Tio/MindKeep/) | [View Demo](https://www.youtube.com/watch?v=eVVs7fHWK8c)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -52,8 +53,6 @@ An augmented reality application designed to assist individuals with memory impa
 - Engineered AR functionality to provide contextual reminders for medications and appointments
 - Collaborated with a clinical psychologist to optimize accessibility and usability
 - Implemented Firebase for real-time data synchronization between users and caregivers
-
-[View Repository](https://gitfront.io/r/mrikka/3vNRvdyU7Tio/MindKeep/) | [View Demo](https://www.youtube.com/watch?v=eVVs7fHWK8c)
 
 ### Smart Route
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -68,6 +67,7 @@ A cross-platform mobile application that optimizes routes for electric vehicle d
 - Implemented HERE Geocoding API to resolve address mismatches in rural areas
 
 ### Woof n Walk
+[View Repository](https://gitfront.io/r/mrikka/6mHdwpDzEEHH/WoofnWalk/) | [View Demo](https://www.youtube.com/watch?v=BAEvX1RzZbI)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=google-maps&logoColor=white)
@@ -80,11 +80,7 @@ A mobile application connecting pet owners with nearby dog walkers, facilitating
 - Used Firebase Firestore for real-time data management and synchronization
 - Visualized walker locations using Google Static Maps API
 
-[View Repository](https://gitfront.io/r/mrikka/6mHdwpDzEEHH/WoofnWalk/) | [View Demo](https://www.youtube.com/watch?v=BAEvX1RzZbI)
-
 ## 📊 GitHub Stats
-
-[![Jerikka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmsot15&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsot15&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
