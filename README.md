@@ -80,11 +80,6 @@ A mobile application connecting pet owners with nearby dog walkers, facilitating
 - Used Firebase Firestore for real-time data management and synchronization
 - Visualized walker locations using Google Static Maps API
 
-## 📊 GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsot15&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmsot15&theme=radical)](https://git.io/streak-stats)
 
 ## 📫 Let's Connect
 
